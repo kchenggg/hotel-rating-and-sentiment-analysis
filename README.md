@@ -18,3 +18,8 @@ This analysis will uncover driving factors that contribute to hotel reviews, aid
 # Built With 
 - Python <br />
 - R
+  
+# Applications Used
+- Excel
+- Jupyter
+- RStudio
