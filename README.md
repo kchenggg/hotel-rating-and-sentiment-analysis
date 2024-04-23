@@ -15,6 +15,6 @@ This analysis will uncover driving factors that contribute to hotel reviews, aid
 3. Decision Tree
 4. Neural Network
 
-# Built with 
+# Built With 
 - Python <br />
 - R
