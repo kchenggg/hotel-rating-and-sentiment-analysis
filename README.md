@@ -10,10 +10,10 @@ This analysis will uncover driving factors that contribute to hotel reviews, aid
 4. Classification  
 
 # Models for Sentiment Analysis
-1. Linear Regression (39%) 
-2. Random Forest (47%)
-3. Decision Tree
-4. Neural Network
+1. Random Forest (47%)
+2. Decision Tree
+3. Neural Network
+4. Linear Regression (39%) 
 
 # Built With 
 - Python <br />
