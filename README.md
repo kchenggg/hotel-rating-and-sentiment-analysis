@@ -24,6 +24,6 @@ This analysis will uncover driving factors that contribute to hotel reviews, aid
 - Jupyter
 - RStudio
 
-
-
+<br />
+<br />
 Last updated: July 2023
